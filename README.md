@@ -2,9 +2,9 @@
 ![machine: learning](https://img.shields.io/badge/machine-learning-blue)
 ![C: 9.3.0](https://img.shields.io/badge/c-9.3.0-brightgreen)
 ![Contributors](https://img.shields.io/badge/contributor-1-orange)
-![Stars](https://img.shields.io/github/stars/override-community/diabete-detection?color=orange)
-![Fork](https://img.shields.io/github/forks/override-community/diabete-detection?color=orange)
-![Watchers](https://img.shields.io/github/watchers/override-community/diabete-detection?color=orange)
+![Stars](https://img.shields.io/github/stars/Fab16BSB/SOM_C?color=orange)
+![Fork](https://img.shields.io/github/forks/Fab16BSB/SOM_C?color=orange)
+![Watchers](https://img.shields.io/github/watchers/Fab16BSB/SOM_C?color=orange)
 
 
 <h1> Self Organizing Map </h1>
