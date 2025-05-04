@@ -73,8 +73,8 @@ fourni moi ca en markdown correctement formaté :
 1. **Cloner le dépôt**
 
    ```bash
-   git clone https://github.com/tonutilisateur/SOM.git
-   cd SOM
+   git clone https://github.com/Fab16BSB/SOM_C.git
+   cd SOM_C
    ```
 
 2. **Compilation**
