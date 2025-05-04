@@ -71,8 +71,8 @@ El resultado es un mapa organizado topológicamente, donde las clases similares 
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tuusuario/SOM.git
-   cd SOM
+   git clone https://github.com/Fab16BSB/SOM_C.git
+   cd SOM_C
    ```
 2. **Compilación**
 
