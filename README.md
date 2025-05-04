@@ -71,8 +71,8 @@ The result is a topologically organized map, where similar classes are found in 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/SOM.git
-   cd SOM
+   git clone https://github.com/Fab16BSB/SOM_C.git
+   cd SOM_C
    ````
 2. **Compilation**
 
