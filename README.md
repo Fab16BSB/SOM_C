@@ -1,6 +1,13 @@
-<center>
-   <h1> Self Organizing Map </h1>
-</center>
+![License: MIT](https://img.shields.io/badge/Licence-MIT-green)
+![machine: learning](https://img.shields.io/badge/machine-learning-blue)
+![C](https://img.shields.io/badge/c-9.3.0-brightgreen)
+![Contributors](https://img.shields.io/badge/contributor-1-orange)
+![Stars](https://img.shields.io/github/stars/override-community/diabete-detection?color=orange)
+![Fork](https://img.shields.io/github/forks/override-community/diabete-detection?color=orange)
+![Watchers](https://img.shields.io/github/watchers/override-community/diabete-detection?color=orange)
+
+
+<h1> Self Organizing Map </h1>
 
 ## 🌍 Multilingual README Versions
 
