@@ -78,8 +78,8 @@ The result is a topologically organized map, where similar classes are found in 
 
 If you don't have a C compiler installed, you can follow the instructions in one of my YouTube videos for installing a C compiler on different platforms:
 
-- **Linux**: [Install C on Linux]()
-- **Mac**: [Install C on Mac]()
+- **Linux**: Install C on Linux
+- **Mac**: Install C on Mac
 - **Windows**: [Install C on Windows](https://www.youtube.com/watch?v=MNPhTlvzSIA)
 
 ---
