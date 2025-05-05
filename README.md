@@ -74,6 +74,16 @@ The result is a topologically organized map, where similar classes are found in 
 
 ---
 
+### 💻 Install C (If You Don't Have C Installed)
+
+If you don't have a C compiler installed, you can follow the instructions in one of my YouTube videos for installing a C compiler on different platforms:
+
+- **Linux**: [Install C on Linux]()
+- **Mac**: [Install C on Mac]()
+- **Windows**: [Install C on Windows](https://www.youtube.com/watch?v=MNPhTlvzSIA)
+
+---
+
 ### 📝 Compilation and Execution
 
 1. **Clone the repository**
@@ -93,6 +103,8 @@ The result is a topologically organized map, where similar classes are found in 
    ```bash
    ./som
    ````
+
+---
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
