@@ -74,7 +74,15 @@ Le résultat est une carte organisée topologiquement, où les classes similaire
 
 ---
 
-fourni moi ca en markdown correctement formaté :
+### 💻 Installer C (Si vous n'avez pas C installé)
+
+Si vous n'avez pas un compilateur C installé, vous pouvez suivre les instructions dans l'une de mes vidéos YouTube pour installer un compilateur C sur différentes plateformes :
+
+- **Linux** : Installer C sur Linux
+- **Mac** : Installer C sur Mac
+- **Windows** : [Installer C sur Windows](https://www.youtube.com/watch?v=MNPhTlvzSIA)
+
+---
 
 ### 📝 Compilation et exécution
 
@@ -96,6 +104,8 @@ fourni moi ca en markdown correctement formaté :
    ```bash
    ./som
    ````
+   
+---
 
 ### 🙌 Remerciements
 Je souhaite remercier mon enseignant pour m'avoir proposé ce projet ainsi que pour ses précieux conseils.
