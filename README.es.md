@@ -74,6 +74,16 @@ El resultado es un mapa organizado topológicamente, donde las clases similares 
 
 ---
 
+### 💻 Instalar C (Si no tienes C instalado)
+
+Si no tienes un compilador C instalado, puedes seguir las instrucciones en uno de mis videos de YouTube para instalar un compilador C en diferentes plataformas:
+
+- **Linux**: Instalar C en Linux
+- **Mac**: Instalar C en Mac
+- **Windows**: [Instalar C en Windows](https://www.youtube.com/watch?v=MNPhTlvzSIA)
+
+---
+
 ### 📝 Compilación y ejecución
 
 1. **Clonar el repositorio**
@@ -93,6 +103,8 @@ El resultado es un mapa organizado topológicamente, donde las clases similares 
    ```bash
    ./som
    ```
+
+---
 
 ### 🙌 Agradecimientos
 Quiero agradecer a mi profesor por ofrecerme este proyecto y por sus valiosos consejos.
