@@ -125,7 +125,7 @@ docker build -t som_c .
 
 3. **Run the Docker container**
 ```bash
-docker run --rm -it som_c
+docker run --rm som_c
 ```
 
 ---
@@ -144,6 +144,7 @@ a = virginica / b = versicolor / c = setosa
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
+
 
 
 
