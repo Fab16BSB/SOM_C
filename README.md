@@ -130,9 +130,7 @@ docker run --rm som_c
 
 ---
 ### 📈 Results
-a = virginica
-b = versicolor
-c = setosa  
+a = virginica / b = versicolor / c = setosa  
 
 | c | c | c | c | c | a | a | a | a | a |
 |---|---|---|---|---|---|---|---|---|---|
@@ -146,5 +144,6 @@ c = setosa
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
+
 
 
