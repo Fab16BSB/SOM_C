@@ -113,21 +113,22 @@ Puedes compilar y ejecutar el proyecto ya sea **localmente** o utilizando **Dock
 
 1. **Clonar el repositorio**
    
-  ```bash
-  git clone https://github.com/Fab16BSB/SOM_C.git
-  cd SOM_C
-  ```
+    ```bash
+    git clone https://github.com/Fab16BSB/SOM_C.git
+    cd SOM_C
+    ```
 
 2. **Construir la imagen Docker**
-
-```bash
-docker build -t som_c .
-```
+  
+    ```bash
+    docker build -t som_c .
+    ```
 
 3. **Ejecutar el contenedor Docker**
-```bash
-docker run --rm som_c
-```
+   
+    ```bash
+    docker run --rm som_c
+    ```
 
 ---
 ### 📈 Resultados
@@ -146,4 +147,5 @@ a = virginica / b = versicolor / c = setosa
 
 ### 🙌 Agradecimientos
 Quiero agradecer a mi profesor por ofrecerme este proyecto y por sus valiosos consejos.
+
 
