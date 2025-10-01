@@ -86,12 +86,16 @@ If you don't have a C compiler installed, you can follow the instructions in one
 
 ### 📝 Compilation and Execution
 
+You can compile and run the project either **locally** or using **Docker**.
+
+#### ⚡ Option 1: Local Compilation and Execution
+
 1. **Clone the repository**
 
    ```bash
    git clone https://github.com/Fab16BSB/SOM_C.git
    cd SOM_C
-   ````
+   ```
 2. **Compilation**
 
    ```bash
@@ -104,8 +108,43 @@ If you don't have a C compiler installed, you can follow the instructions in one
    ./som
    ````
 
+### 🐳 Option 2: Using Docker
+
+1. **Clone the repository**
+   
+  ```bash
+  git clone https://github.com/Fab16BSB/SOM_C.git
+  cd SOM_C
+  ```
+
+2. **Build the Docker image**
+
+```bash
+docker build -t som_c .
+```
+
+3. **Run the Docker container**
+```bash
+docker run --rm som_c
+```
+
+---
+### 📈 Results
+a = virginica
+b = versicolor
+c = setosa  
+
+| c | c | c | c | c | a | a | a | a | a |
+|---|---|---|---|---|---|---|---|---|---|
+| c | c | c | c | b | a | a | a | a | a |
+| c | c | c | c | b | b | b | a | a | a |
+| c | c | c | c | b | b | b | b | a | b |
+| c | c | c | b | b | b | b | b | a | a |
+| c | c | c | b | b | b | b | b | b | a |
+
 ---
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
+
 
