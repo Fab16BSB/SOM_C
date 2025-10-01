@@ -2,10 +2,13 @@
 ![University: Paris 8](https://img.shields.io/badge/University-Paris%208-red)
 ![machine: learning](https://img.shields.io/badge/machine-learning-blue)
 ![C: 9.3.0](https://img.shields.io/badge/c-9.3.0-brightgreen)
+![Docker Ready](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Contributors](https://img.shields.io/badge/contributor-1-orange)
 ![Stars](https://img.shields.io/github/stars/Fab16BSB/SOM_C?color=orange)
 ![Fork](https://img.shields.io/github/forks/Fab16BSB/SOM_C?color=orange)
 ![Watchers](https://img.shields.io/github/watchers/Fab16BSB/SOM_C?color=orange)
+
+
 
 
 <h1> Self Organizing Map </h1>
@@ -145,6 +148,7 @@ a = virginica / b = versicolor / c = setosa
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
+
 
 
 
