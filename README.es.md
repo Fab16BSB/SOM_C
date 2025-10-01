@@ -2,6 +2,7 @@
 ![University: Paris 8](https://img.shields.io/badge/University-Paris%208-red)
 ![machine: learning](https://img.shields.io/badge/machine-learning-blue)
 ![C: 9.3.0](https://img.shields.io/badge/c-9.3.0-brightgreen)
+![Docker Ready](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Contributors](https://img.shields.io/badge/contributor-1-orange)
 ![Stars](https://img.shields.io/github/stars/Fab16BSB/SOM_C?color=orange)
 ![Fork](https://img.shields.io/github/forks/Fab16BSB/SOM_C?color=orange)
@@ -147,5 +148,6 @@ a = virginica / b = versicolor / c = setosa
 
 ### 🙌 Agradecimientos
 Quiero agradecer a mi profesor por ofrecerme este proyecto y por sus valiosos consejos.
+
 
 
