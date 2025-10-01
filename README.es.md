@@ -84,7 +84,11 @@ Si no tienes un compilador C instalado, puedes seguir las instrucciones en uno d
 
 ---
 
-### 📝 Compilación y ejecución
+### 📝 Compilación y Ejecución
+
+Puedes compilar y ejecutar el proyecto ya sea **localmente** o utilizando **Docker**.
+
+#### ⚡ Opción 1: Compilación y Ejecución Local
 
 1. **Clonar el repositorio**
 
@@ -92,6 +96,7 @@ Si no tienes un compilador C instalado, puedes seguir las instrucciones en uno d
    git clone https://github.com/Fab16BSB/SOM_C.git
    cd SOM_C
    ```
+   
 2. **Compilación**
 
    ```bash
@@ -102,9 +107,43 @@ Si no tienes un compilador C instalado, puedes seguir las instrucciones en uno d
 
    ```bash
    ./som
-   ```
+   ````
+
+### 🐳 Opción 2: Uso con Docker
+
+1. **Clonar el repositorio**
+   
+  ```bash
+  git clone https://github.com/Fab16BSB/SOM_C.git
+  cd SOM_C
+  ```
+
+2. **Construir la imagen Docker**
+
+```bash
+docker build -t som_c .
+```
+
+3. **Ejecutar el contenedor Docker**
+```bash
+docker run --rm som_c
+```
+
+---
+### 📈 Resultados
+a = virginica / b = versicolor / c = setosa  
+
+| c | c | c | c | c | a | a | a | a | a |
+|---|---|---|---|---|---|---|---|---|---|
+| c | c | c | c | b | a | a | a | a | a |
+| c | c | c | c | b | b | b | a | a | a |
+| c | c | c | c | b | b | b | b | a | b |
+| c | c | c | b | b | b | b | b | a | a |
+| c | c | c | b | b | b | b | b | b | a |
 
 ---
 
+
 ### 🙌 Agradecimientos
 Quiero agradecer a mi profesor por ofrecerme este proyecto y por sus valiosos consejos.
+
